@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://luxepuds.com/sitemap.xml
